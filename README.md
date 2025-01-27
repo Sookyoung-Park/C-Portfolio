@@ -1,4 +1,4 @@
-![LandingPage](https://github.com/Sookyoung-Park/my-porfolio/blob/main/public/mockup-1.png?raw=true)
+![LandingPage](https://github.com/Sookyoung-Park/C-Portfolio/blob/main/images/screenshot-1.png?raw=true)
 
 <div>
     <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logoColor=white&logo=HTML5&color=000000" alt="react.js" />
